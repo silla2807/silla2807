@@ -19,11 +19,14 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 
 ### My Resume
 
+### My Resume
+
 <a href="https://drive.google.com/file/d/1oXpkkresb1E9WMWJM4RXq_73Lc7Cm9vf/" target="_blank">
   <img src="https://img.shields.io/badge/View%20File-Resume-brightgreen?style=for-the-badge" alt="View File" />
 </a>
 
-- 📌 Shortlisted for positions at ![Google](https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg) and ![Amazon](https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg). Feel free to refer.
+- 📌 Shortlisted for positions at <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="16" height="16" alt="Google logo"> and <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="16" height="16" alt="Amazon logo">. Feel free to refer.
+
 
 
 
