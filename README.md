@@ -15,6 +15,14 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 - Exploring new technologies to expand my skill set
 
 ### 👯 Looking for a SDE role right now, pls feel free to reach out 😊
+### My Resume
+
+<a href="https://drive.google.com/file/d/1oXpkkresb1E9WMWJM4RXq_73Lc7Cm9vf/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20File-Resume-brightgreen?style=for-the-badge" alt="View File" />
+</a>
+
+- 📌 Shortlisted for positions at **Google** 🟢, **Amazon** 🟠, and many more. Feel free to refer.
+
 
 ### 💬 Ask Me About
 - **Full-Stack Development** (Java, Spring Boot, React.js)
@@ -31,23 +39,7 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 ### ⚡ Fun Fact
 I love creating user friendly front end application 🥹🥹🥹, now working on that apart from backend...
 
----
-<a href="https://drive.google.com/file/d/1oXpkkresb1E9WMWJM4RXq_73Lc7Cm9vf/" target="_blank" style="text-decoration: none;">
-  <button style="
-    background-color: #4CAF50; 
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    border-radius: 5px;">
-    View File
-  </button>
-</a>
+
 ### 🛠️ Tech Stack & Skillset
 
 <p align="left">
