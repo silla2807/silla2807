@@ -1,6 +1,6 @@
 ## Hiiiiii 👋 I'm Silla!
 
-I'm a software engineer with a passion for problem-solving and creaivity. I’m currently refining my **Data Structures & Algorithms**, **OOPs**, and **System Design** skills while focusing on **Java**, **Spring Boot**, and **React.js**.
+I'm a software engineer with a passion for problem-solving and creaivity. I’m currently refining my **Data Structures & Algorithms**, **OOPs**, **HTML**, **CSS**, **JavaScript** and **System Design** skills while focusing on **Java**, **Spring Boot**, and **React.js**.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 ### 💬 Ask Me About
 - **Full-Stack Development** (Java, Spring Boot, React.js)
 - **Algorithms and Problem Solving**
-- **System Design** practices and approaches
+- **System Design** and **Machine Coding**
 
 ### 📫 How to Reach Me
 - **Email**: [silla.k.careers@gmail.com](mailto:silla.k.careers@gmail.com)
@@ -32,7 +32,22 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 I love creating user friendly front end application 🥹🥹🥹, now working on that apart from backend...
 
 ---
-
+<a href="https://drive.google.com/file/d/1oXpkkresb1E9WMWJM4RXq_73Lc7Cm9vf/" target="_blank" style="text-decoration: none;">
+  <button style="
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;">
+    View File
+  </button>
+</a>
 ### 🛠️ Tech Stack & Skillset
 
 <p align="left">
