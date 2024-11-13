@@ -15,9 +15,6 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 - Exploring new technologies to expand my skill set
 
 ### 👯 Looking for a SDE role right now, pls feel free to reach out 😊
-### My Resume
-
-### My Resume
 
 ### My Resume
 
