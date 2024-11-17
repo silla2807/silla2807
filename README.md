@@ -22,7 +22,7 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
   <img src="https://img.shields.io/badge/View%20File-Resume-brightgreen?style=for-the-badge" alt="View File" />
 </a>
 
-- 📌 Shortlisted for positions at <img src="https://banner2.cleanpng.com/20240111/qtv/transparent-google-logo-colorful-google-logo-with-bold-green-1710929465092.webp" width="16" height="16" alt="Google logo"> and <img src="https://image.similarpng.com/very-thumbnail/2020/11/Amazon-icon-in-flat-design-on-transparent-background-PNG.png" width="16" height="16" alt="Amazon logo">. Feel free to refer.
+- 📌 Shortlisted for positions at **Google, Amazon, Walmart, Meesho, Paytm, PayU, Goldman Sachs, JP Morgan,** and many more . Feel free to refer.
 
 
 
