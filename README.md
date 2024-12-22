@@ -1,20 +1,19 @@
 ## Hiiiiii 👋 I'm Silla!
 
-I'm a software engineer with a passion for problem-solving and creaivity. I’m currently refining my **Data Structures & Algorithms**, **OOPs**, **HTML**, **CSS**, **JavaScript** and **System Design** skills while focusing on **Java**, **Spring Boot**, and **React.js**.
+I'm a software engineer. I’m currently refining my **Data Structures & Algorithms**, **OOPs**, **HTML**, **CSS**, **JavaScript** and **System Design** skills while focusing on **Java**, **Spring Boot**, and **React.js**.
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 - Enhancing my knowledge of **Data Structures** and **Algorithms**
 - Improving skills in **Java**, **Spring Boot**, and **React.js**
-- Deepening my understanding of **System Design**
+- Deepening my understanding of **System Designing**
 
-### 🌱 Currently Learning
-- Advanced Front end development concepts
+### Currently Learning
+- Front end development concepts
 - Optimization techniques in **Data Structures** and **Algorithms**
-- Exploring new technologies to expand my skill set
 
-### 👯 Looking for a SDE role right now, pls feel free to reach out 😊
+### Looking for a SDE role right now, pls feel free to reach out 
 
 ### My Resume
 
@@ -32,12 +31,9 @@ I'm a software engineer with a passion for problem-solving and creaivity. I’m 
 - **Algorithms and Problem Solving**
 - **System Design** and **Machine Coding**
 
-### 📫 How to Reach Me
+### 📧 How to Reach Me
 - **Email**: [silla.k.careers@gmail.com](mailto:silla.k.careers@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/silla-k)
-
-### 😄 Pronouns
-- She/Her
 
 ### ⚡ Fun Fact
 I love creating user friendly front end application 🥹🥹🥹, now working on that apart from backend...
@@ -72,4 +68,4 @@ I love creating user friendly front end application 🥹🥹🥹, now working on
 
 ---
 
-Thanks for stopping by! Let's connect and create amazing things together! 😊
+Thanks for stopping by!
